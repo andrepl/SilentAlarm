@@ -1,0 +1,8 @@
+main: com.norcode.bukkit.silentalarm.SilentAlarm
+name: SilentAlarm
+version: 0.0.1
+author: metalhedd
+permissions:
+  silentalarm.create:
+    default: op
+
